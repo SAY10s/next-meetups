@@ -17,7 +17,7 @@ const DUMMY_MEETUPS = [
     image:
       "https://www.ashleyabroad.com/wp-content/uploads/2019/10/Marienplatz-Munich-Germany-1.jpg",
     address: "Skrbeńsko 44-341",
-    description: "Lorem ip",
+    description: "Lorem ipsum",
   },
 ];
 
